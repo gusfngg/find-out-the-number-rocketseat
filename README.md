@@ -5,7 +5,7 @@
 ![preview](./assets/preview.png)
 
 
-[🔗 Click here to access]()
+[🔗 Click here to access](https://gusfngg.github.io/find-out-the-number-rocketseat/)
 
 ## 🔧 Tech
 
