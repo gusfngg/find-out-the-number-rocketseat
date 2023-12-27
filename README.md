@@ -1,8 +1,9 @@
 # Find out the number - Rocketseat
 
+> Project made to guess the number, made with JavaScript
+
 ![preview](./assets/preview.png)
 
-> Project made to guess the number, made with JavaScript
 
 [🔗 Click here to access]()
 
